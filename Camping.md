@@ -7,3 +7,8 @@
 	- Matches
 	- Lighter
 	- Torch
+* Pillow
+* Cot
+* Knife
+* Cooler
+* Food -- Dried and perishable as failsafe
